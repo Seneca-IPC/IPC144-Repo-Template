@@ -9,14 +9,14 @@ Use these links to quickly access a specific assessments.
 
 * [lab0](./lab0/)
 * [lab1](./lab1/) ( extra practice part: [code](./lab1/extraPractice/))
-* [lab2](./lab2/)
-* [lab3](./lab3/)
-* [lab4](./lab4/)
-* [lab5](./lab5/)
-* [lab6](./lab6/)
-* [lab7](./lab7/)
-* [lab8](./lab8/)
-* [lab9](./lab9/)
+* [lab2](./lab2/) ( extra practice part: [code](./lab2/extraPractice/))
+* [lab3](./lab3/) ( extra practice part: [code](./lab3/extraPractice/))
+* [lab4](./lab4/) ( extra practice part: [code](./lab4/extraPractice/))
+* [lab5](./lab5/) ( extra practice part: [code](./lab5/extraPractice/))
+* [lab6](./lab6/) ( extra practice part: [code](./lab6/extraPractice/))
+* [lab7](./lab7/) ( extra practice part: [code](./lab7/extraPractice/))
+* [lab8](./lab8/) ( extra practice part: [code](./lab8/extraPractice/))
+* [lab9](./lab9/) ( extra practice part: [code](./lab9/extraPractice/))
 
 ### Projects
 
