@@ -1,6 +1,11 @@
 # IPC144 - Student Code Repository
 This repository is based on an IPC144 structured directory and file template. It is intended for Seneca Polytechnic students enrolled in the IPC144 course and this template must be applied to all student **PRIVATE** repositories used in the lab and project submission process.
 
+## My Personal Information
+- Student Number: 012345678
+- Name: Your Full Student Name
+- Seneca Email: yourID@myseneca.ca
+
 ## Quick Access Links
 
 Use these links to quickly access a specific assessments.
